@@ -1,6 +1,6 @@
 main:
 
-  - title: SACuP: Sonar Image Augmentation with Cut and Paste Based DataBank for Semantic Segmentation
+  - title: "SACuP: Sonar Image Augmentation with Cut and Paste Based DataBank for Semantic Segmentation"
     authors: Sundong Park, <strong>Yoonyoung Choi</strong>, Hyoseok Hwang
     conference_short: Journal
     conference: <strong>(Remote Sensing)</strong> MDPI, 2023.
