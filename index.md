@@ -10,7 +10,8 @@ I am a M.S. student at Kyung Hee University, [AIRLab](http://airlab.khu.ac.kr/) 
 ## Research Interests
 
 - **Computer Vision:** Image Generation
-- **Machine Learning:** transfer learning, domain adaptation, domain generation
+- **Machine Learning:** Transfer Learning, Domain Adaptation, Domain Generalization
+- **Generative AI:** GAN, Diffusions
 
 ## News
 
