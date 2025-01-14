@@ -15,8 +15,8 @@ I am a M.S. student at Kyung Hee University, [AIRLab](http://airlab.khu.ac.kr/) 
 
 ## News
 
-- **[Aug. 2023]** I started MS at Kyung Hee University [AIRLab](http://airlab.khu.ac.kr/)
-- **[Mar. 2020]** I started BS at Kyung Hee University [AIRLab](http://airlab.khu.ac.kr/)
+- **[Aug. 2023]** I started M.S. at Kyung Hee University [AIRLab](http://airlab.khu.ac.kr/)
+- **[Mar. 2020]** I started B.S. at Kyung Hee University [AIRLab](http://airlab.khu.ac.kr/)
 
 {% include_relative _includes/publications.md %}
 
