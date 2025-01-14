@@ -7,7 +7,7 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:#510461!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -230,18 +230,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:#510461;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:#510461;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#510461;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -249,11 +249,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240);
+    color: #ea81ff;
   }
 
   h2 {
-    color:rgb(62, 183, 240);
+    color:#ea81ff;
   }
 }
 
@@ -270,7 +270,7 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#ea81ff;
   text-decoration:none;
 }
 
@@ -280,7 +280,7 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:rgb(62, 183, 240);
+    color:#ea81ff;
   }
 }
 
