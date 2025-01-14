@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Welcome to my webpage!
-I am a M.S. student at Kyung Hee University, [AIRLab](http://airlab.khu.ac.kr/) (Advisor: Prof.[Hyoseok Hwang](https://sites.google.com/view/hyoseok-hwang)).
+I am a M.S. student at Department of Software Convergence, Kyung Hee University, [AIRLab](http://airlab.khu.ac.kr/) (Advisor: Prof.[Hyoseok Hwang](https://sites.google.com/view/hyoseok-hwang)). 
 
 ## Research Interests
 
