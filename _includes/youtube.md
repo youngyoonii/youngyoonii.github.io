@@ -9,13 +9,10 @@
 <ol class="bibliography">
 
 <div style="margin-bottom: 30px;">
-  <iframe width="560" height="315" 
-    src="https://youtube.com/playlist?list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr&si=z8Li93L6PfITjGrc" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Xd6IURFEfquq8Pp7&amp;list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+
 
 {% endfor %}
 
