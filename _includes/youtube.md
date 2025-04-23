@@ -11,7 +11,7 @@
   <!-- 왼쪽: 유튜브 플레이리스트 embed -->
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
     <div style="width: 100%; height: auto;">
-      <iframe width="100%" height="200" 
+      <iframe width="100" height="auto" 
         src="https://www.youtube.com/embed/videoseries?si=AqK2OxV-uqvekwde&amlist=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr" 
         title="YouTube playlist player" 
         frameborder="0" 
