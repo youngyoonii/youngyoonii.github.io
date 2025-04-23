@@ -27,7 +27,7 @@
       </a>
     </div>
     <div class="author"><small>Ongoing Series</small></div>
-    <div class="periodical"><em>A collection of all my research seminar reviews, updated regularly.</em></div>
+    <div class="periodical">A collection of all my research seminar reviews, updated regularly.</div>
   </div>
 </div>
 </li>
