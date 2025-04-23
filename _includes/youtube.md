@@ -1,6 +1,6 @@
 <h2 id="youtube" style="margin: 2px 0px -15px;">📺 Seminar Reviews</h2>
 
-<p style="margin-top: 100px;">
+<p style="margin-top: 70px;">
   This section features research seminar videos where I review and present papers.
   Topics span generative AI, vision-language models, and beyond—reflecting my ongoing efforts to explore and deepen my expertise across key areas of AI research.
   <a href="https://www.youtube.com/@airlab_khu" target="_blank">[AIRLab YouTube]</a>
@@ -10,26 +10,14 @@
 
 {% for link in site.data.youtube.main %}
 
-<li>
-<div class="pub-row">
-  <!-- 왼쪽 썸네일 -->
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <a href="https://www.youtube.com/watch?v={{ link.youtube_id }}" target="_blank">
-      <img src="https://img.youtube.com/vi/{{ link.youtube_id }}/0.jpg" class="teaser img-fluid z-depth-1" style="width=100;height=auto">
-    </a>
-  </div>
-
-  <!-- 오른쪽 텍스트 -->
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">
-      <a href="https://www.youtube.com/watch?v={{ link.youtube_id }}" target="_blank">{{ link.title }}</a>
-    </div>
-    <div class="author"><small>{{ link.date }}</small></div>
-    <div class="periodical"><em>{{ link.desc }}</em></div>
-  </div>
+<div style="margin-bottom: 30px;">
+  <iframe width="560" height="315" 
+    src="https://youtube.com/playlist?list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr&si=BpYWAvg7LAYJdekj" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </div>
-</li>
-<br>
 
 {% endfor %}
 
