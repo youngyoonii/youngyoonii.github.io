@@ -6,7 +6,32 @@
   <a href="https://www.youtube.com/@airlab_khu" target="_blank">AIRLab YouTube</a>
 </p>
 
-<div style="margin-bottom: 30px;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=AqK2OxV-uqvekwde&amp;list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<li>
+<div class="pub-row">
+  <!-- 왼쪽: 유튜브 플레이리스트 embed -->
+  <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+    <div style="width: 100%; height: auto;">
+      <iframe width="100%" height="200" 
+        src="https://www.youtube.com/embed/videoseries?si=AqK2OxV-uqvekwde&amp;list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr" 
+        title="YouTube playlist player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
 
+  <!-- 오른쪽 텍스트 -->
+  <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+    <div class="title">
+      <a href="https://www.youtube.com/playlist?list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr" target="_blank">
+        Full Seminar Playlist
+      </a>
+    </div>
+    <div class="author"><small>Ongoing Series</small></div>
+    <div class="periodical"><em>A collection of all my research seminar reviews, updated regularly.</em></div>
+  </div>
+</div>
+</li>
+<br>
