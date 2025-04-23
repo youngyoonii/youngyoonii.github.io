@@ -1,6 +1,6 @@
 <h2 id="youtube" style="margin: 2px 0px -15px;">📺 Seminar Reviews</h2>
 
-<p style="margin-top: 10px; margin-bottom: 20px;">
+<p style="margin-top: 50px;">
   This section features research seminar videos where I review and present papers.
   Topics span generative AI, vision-language models, and beyond—reflecting my ongoing efforts to explore and deepen my expertise across key areas of AI research.
   <a href="https://www.youtube.com/@airlab_khu" target="_blank">[AIRLab YouTube]</a>
@@ -15,7 +15,7 @@
   <!-- 왼쪽 썸네일 -->
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <a href="https://www.youtube.com/watch?v={{ link.youtube_id }}" target="_blank">
-      <img src="https://img.youtube.com/vi/{{ link.youtube_id }}/0.jpg" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+      <img src="https://img.youtube.com/vi/{{ link.youtube_id }}/0.jpg" class="teaser img-fluid z-depth-1" style="width=100;height=auto">
     </a>
   </div>
 
