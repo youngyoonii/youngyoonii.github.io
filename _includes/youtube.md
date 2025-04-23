@@ -1,4 +1,4 @@
-<h2 id="youtube" style="margin: 2px 0px -15px;">📺 Seminar Reviews</h2>
+<h2 id="youtube" style="margin: 2px 0px -15px;">📺 Seminar Videos</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,7 +7,7 @@
 <div class="pub-row">
   <!-- 왼쪽: 유튜브 플레이리스트 embed -->
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-    <div style="width: 100; height: auto;">
+    <div style="width: 100; height: 40%;">
       <iframe width="100%" height="auto" 
         src="https://www.youtube.com/embed/videoseries?list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr" 
         title="YouTube playlist player" 
