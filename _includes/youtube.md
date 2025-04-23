@@ -1,4 +1,9 @@
-<h2 id="youtube" style="margin: 2px 0px -15px;">YouTube</h2>
+<h2 id="youtube" style="margin: 2px 0px -15px;">📺 Seminar Reviews</h2>
+
+<p style="margin-bottom: 20px; font-size: 0.95rem; color: #555;">
+  This section features research seminar videos where I review and present academic papers.
+  Topics span generative AI, vision-language models, and beyond—reflecting my ongoing efforts to explore and deepen my expertise across key areas of AI research.
+</p>
 
 <div class="publications">
 <ol class="bibliography">
@@ -10,7 +15,7 @@
   <!-- 왼쪽 썸네일 -->
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <a href="https://www.youtube.com/watch?v={{ link.youtube_id }}" target="_blank">
-      <img src="https://img.youtube.com/vi/{{ link.youtube_id }}/0.jpg" class="teaser img-fluid z-depth-1" style="width:100%; height:auto;">
+      <img src="https://img.youtube.com/vi/{{ link.youtube_id }}/0.jpg" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     </a>
   </div>
 
