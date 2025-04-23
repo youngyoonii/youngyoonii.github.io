@@ -1,9 +1,8 @@
 <h2 id="youtube" style="margin: 2px 0px -15px;">📺 Seminar Reviews</h2>
 
-<p style="margin-bottom: 20px; font-size: 0.95rem; color: #555;">
-  This section features research seminar videos where I review and present academic papers.
-  Topics span generative AI, vision-language models, and beyond—reflecting my ongoing efforts to explore and deepen my expertise across key areas of AI research.
-</p>
+
+This section features research seminar videos where I review and present academic papers.
+Topics span generative AI, vision-language models, and beyond—reflecting my ongoing efforts to explore and deepen my expertise across key areas of AI research.
 
 <div class="publications">
 <ol class="bibliography">
