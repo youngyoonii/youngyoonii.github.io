@@ -24,10 +24,10 @@
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div class="title">
       <a href="https://www.youtube.com/playlist?list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr" target="_blank">
-        AIRLab Seminar Playlist
+        AIRLab Seminar Video List
       </a>
     </div>
-    <div class="author"><small>Ongoing Series</small></div>
+    <div class="author"><small>2023~ing</small></div>
     <div class="periodical">A collection of all my research seminar review videos, updated regularly. Topics span <em>generative AI, vision-language models, and beyond</em>—reflecting my ongoing efforts to explore and deepen my expertise across key areas of AI research.</div>
   </div>
 </div>
