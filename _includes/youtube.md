@@ -14,8 +14,7 @@
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen
-        class="teaser img-fluid z-depth-1">
+        allowfullscreen>
       </iframe>
     </div>
   </div>
@@ -24,11 +23,11 @@
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div class="title">
       <a href="https://www.youtube.com/playlist?list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr" target="_blank">
-        Full Seminar Playlist
+        AIRLab Seminar Playlist
       </a>
     </div>
     <div class="author"><small>Ongoing Series</small></div>
-    <div class="periodical">A collection of all my research seminar reviews, updated regularly.</div>
+    <div class="periodical">A collection of all my research seminar review videos, updated regularly. Topics span <em>generative AI, vision-language models, and beyond</em>—reflecting my ongoing efforts to explore and deepen my expertise across key areas of AI research.</div>
   </div>
 </div>
 </li>
