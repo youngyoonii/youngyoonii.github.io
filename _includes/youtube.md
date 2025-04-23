@@ -33,7 +33,5 @@
 </li>
 <br>
 
-{% endfor %}
-
 </ol>
 </div>
