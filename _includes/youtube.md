@@ -1,9 +1,8 @@
 <h2 id="youtube" style="margin: 2px 0px -15px;">📺 Seminar Reviews</h2>
 
-<p style="margin-bottom: 20px; font-size: 0.95rem; color: #555;">
-  This section features research seminar videos where I review and present  papers.
-  Topics span generative AI, vision-language models, and beyond—reflecting my ongoing efforts to explore and deepen my expertise across key areas of AI research. [AIRLab Youtube](https://www.youtube.com/@airlab_khu)
-</p>
+This section features research seminar videos where I review and present  papers.
+Topics span generative AI, vision-language models, and beyond—reflecting my ongoing efforts to explore and deepen my expertise across key areas of AI research. [AIRLab Youtube](https://www.youtube.com/@airlab_khu)
+
 
 <div class="publications">
 <ol class="bibliography">
