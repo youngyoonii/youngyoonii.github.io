@@ -7,8 +7,9 @@
 <div class="pub-row">
   <!-- 왼쪽: 유튜브 플레이리스트 embed -->
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-    <div style="width=100;height=40%">
-      <iframe 
+    <div>
+      <iframe
+        style="width=100;height=40%"
         src="https://www.youtube.com/embed/videoseries?list=PL2KPL4vjU2K99dEAID55_IODh-9vjicEr" 
         title="YouTube playlist player" 
         frameborder="0" 
