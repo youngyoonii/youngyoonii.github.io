@@ -4,8 +4,9 @@ main:
     conference_short: IEEE Access
     conference: <strong>IEEE Access</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/document/11114948
+    code: https://github.com/youngyoonii/TRIDENT
     image: ./assets/img/TRIDENT_figure.png
-    
+
   - title: "SACuP: Sonar Image Augmentation with Cut and Paste Based DataBank for Semantic Segmentation"
     authors: Sundong Park, <strong>Yoonyoung Choi</strong>, Hyoseok Hwang
     conference_short: MDPI
